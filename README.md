@@ -17,7 +17,7 @@ The Kanban Task Tracker is used as a place to allocate tasks and monitor their p
 ## Credits
 
 The starter code from this project was taken from [coding-boot-camp/musical-happiness](https://github.com/coding-boot-camp/musical-happiness) on Github. 
-Assistance for this project was also provided by the AI Xpert Learning Assistant within Bootcamp Spot. This assistance included answering questions, explaining concepts, debugging code and providing examples of Javascript and Jquery functions. Assistance was also provided via the Bootcamp Tutor, who helped with explaining functions and debugging code. 
+Assistance for this project was also provided by the AI Xpert Learning Assistant within Bootcamp Spot. This assistance included answering questions, explaining concepts, debugging code and providing examples of Javascript and Jquery functions. Assistance was also provided via the Bootcamp Tutor, who helped with providing direction and debugging code during office hours.  
 
 ## License
 
